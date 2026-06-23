@@ -76,7 +76,7 @@ const Navbar = () => {
 
       <nav className="navbar">
         <div className="logo">
-          <span className="logo-icon">🎊</span> Vanakkam Makkaley!!
+          <span className="logo-icon">🎊</span> Vanakkam!!
         </div>
         <ul className="nav-links">
           <li><NavLink to="/">Home</NavLink></li>
