@@ -4,7 +4,7 @@ import "./Navbar.css";
 const Navbar = () => {
   return (
     <nav className="navbar">
-      <div className="logo">Winter UI!</div>
+      <div className="logo">Vanakkam Makkaley!!</div>
 
       <ul className="nav-links">
         <li>
